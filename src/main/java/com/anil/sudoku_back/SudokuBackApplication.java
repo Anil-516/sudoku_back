@@ -1,0 +1,13 @@
+package com.anil.sudoku_back;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SudokuBackApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SudokuBackApplication.class, args);
+	}
+
+}
